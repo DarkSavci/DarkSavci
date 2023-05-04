@@ -4,7 +4,7 @@
 <h3>Bedirhan Din&ccedil; | Software Developer | Turkey </h3>
 </div>
 <p align="center"><a target="_blank" href="https://twitter.com/darksavci"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a> </p>
-<p align="center"><a target="_blank" href="mailto:bdincbusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&amp" alt="Mail me" /></a> </p>
+<p align="center"><a target="_blank" href="mailto:contact@bdinc.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&amp" alt="Mail me" /></a> </p>
 <p align="center"><a target="_blank" href="https://www.linkedin.com/in/bedirhan-dinc"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
 <p align="center"><!--  --></p>
   
